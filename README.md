@@ -1,8 +1,8 @@
-# Anchored Targeted Projection Pursuit — reference implementation v3.1
+# Anchored Targeted Projection Pursuit — reference implementation
 
 Companion code for Li & Yuan, *"Anchored Targeted Projection Pursuit:
 Hypothesis-Driven Quality Control of Multivariate Geochemical Data from Sparse
-Analyst Anchors"* (manuscript v4.1, submitted to *Natural Resources Research*).
+Analyst Anchors"* (manuscript submitted to *Natural Resources Research*).
 
 ---
 
